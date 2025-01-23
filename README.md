@@ -1,5 +1,6 @@
 # 자바 잘 읽는 법
-<img src="https://image.yes24.com/goods/126016473/XL" width="300">
+<img src="https://github.com/user-attachments/assets/28a55c4d-7f24-47d5-93d3-409fa3e82048" width="300">
+
 
 ## 📚 스터디 규칙
 
